@@ -1,7 +1,7 @@
 #include <studio.h>
  
 int main (void){
-    printf("hola mundo ");
+    printf("estamos probando un archivo .c");
     return;
 
 
